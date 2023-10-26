@@ -1,0 +1,4 @@
+
+interface ITicTacToeView {
+    int getControlMouse();
+}
