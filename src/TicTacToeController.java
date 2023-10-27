@@ -1,7 +1,6 @@
 public class TicTacToeController implements ITicTacToeController{
     private TicTacToeModel model;
     private ITicTacToeView view;
-    private int size = 600;
 
     public TicTacToeController(){}
     
